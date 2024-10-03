@@ -1,12 +1,19 @@
-👋 Hi, I’m @Hutchz
+👋 Hi, I’m @Hutchz (Sebastian)
 
-👀 I’m interested in learning about coding and acquiring multiple skills to upgrade my life.
+👀 I’m interested in learning about coding and acquiring multiple skills to upgrade my life. 
 
 🌱 I’m currently learning Python, JavaScript, HTML, and database management.
+    [Edit] 
+      "<Right now, I'm super involved with web3... Mainly with Worldcoin proyect. For now, I'm just a community helper, but getting involved in this project has given me a great         
+        perspective in this year 2024... learning more about blockchain and other programming languages.>"
 
 💞️ I’m looking to collaborate on any project where I can be of help.
 
-📫 You can reach me on Instagram at @hologram.27.
+📫 You can reach me on:
+  | Instagram:  @lighthouse_fy 
+  | Discord:    @lighthouse.fy2 <<Preferred Contact Channel<<
+  | X:          @LighthouseZar
+
 
 
 <!---
