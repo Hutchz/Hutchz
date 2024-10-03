@@ -11,8 +11,11 @@
 💞️ I’m looking to collaborate on any project where I can be of help.
 
 📫 You can reach me on:
+
   | Instagram:  @lighthouse_fy 
+
   | Discord:    @lighthouse.fy2 <<Preferred Contact Channel<<
+
   | X:          @LighthouseZar
 
 
