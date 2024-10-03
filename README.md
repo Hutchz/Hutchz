@@ -3,7 +3,8 @@
 👀 I’m interested in learning about coding and acquiring multiple skills to upgrade my life. 
 
 🌱 I’m currently learning Python, JavaScript, HTML, and database management.
-    [Edit] 
+    
+[Edit] 
       "<Right now, I'm super involved with web3... Mainly with Worldcoin proyect. For now, I'm just a community helper, but getting involved in this project has given me a great         
         perspective in this year 2024... learning more about blockchain and other programming languages.>"
 
