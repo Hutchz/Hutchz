@@ -12,7 +12,6 @@
 
 📫 You can reach me on:
 
-  | Instagram:  @lighthouse_fy 
 
   | Discord:    @lighthouse.fy2 <<Preferred Contact Channel<<
 
